@@ -1,0 +1,26 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Alexey Varfolomeev"
+      }
+    ],
+    "Category": "",
+    "Description": "Arc Dark Style",
+    "Id": "com.github.varlesh.arc-dark",
+    "License": "CCPL:by-sa",
+    "Name": "Arc Dark",
+    "Version": "20220612",
+    "Website": "https://github.com/PapirusDevelopmentTeam/arc-kde"
+  },
+  "X-KDE-fallbackPackage": "org.kde.breezedark.desktop",
+  "X-KPackage-Dependencies": [
+    "kns://colorschemes.knsrc/api.kde-look.org/1167638",
+    "kns://plasma-themes.knsrc/api.kde-look.org/1167639",
+    "kns://aurorae.knsrc/api.kde-look.org/1167637",
+    "kns://icons.knsrc/api.kde-look.org/1166289",
+    "kns://wallpaper.knsrc/api.kde-look.org/1815446"
+  ],
+  "X-Plasma-MainScript": "defaults"
+}

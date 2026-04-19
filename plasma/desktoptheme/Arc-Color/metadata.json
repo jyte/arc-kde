@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "varlesh@gmail.com",
+        "Name": "Alexey Varfolomeev"
+      }
+    ],
+    "Category": "",
+    "Description": "Arc Color Plasma Style",
+    "EnabledByDefault": true,
+    "Id": "Arc-Color",
+    "License": "",
+    "Name": "Arc Color",
+    "Version": "20220908",
+    "Website": ""
+  }
+}

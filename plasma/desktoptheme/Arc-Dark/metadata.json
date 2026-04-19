@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "varlesh@gmail.com",
+        "Name": "Alexey Varfolomeev"
+      }
+    ],
+    "Category": "",
+    "Description": "Arc Dark Plasma Style",
+    "EnabledByDefault": true,
+    "Id": "Arc-Dark",
+    "License": "CCPL:by-sa",
+    "Name": "Arc Dark",
+    "Version": "20220908",
+    "Website": ""
+  }
+}

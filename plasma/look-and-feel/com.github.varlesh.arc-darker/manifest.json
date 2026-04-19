@@ -1,0 +1,25 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Alexey Varfolomeev"
+      }
+    ],
+    "Category": "",
+    "Description": "Arc Darker Style",
+    "Id": "com.github.varlesh.arc-darker",
+    "License": "CCPL:by-sa",
+    "Name": "Arc Darker",
+    "Version": "20220612",
+    "Website": "https://github.com/PapirusDevelopmentTeam/arc-kde"
+  },
+  "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+  "X-KPackage-Dependencies": [
+    "kns://colorschemes.knsrc/api.kde-look.org/1815459",
+    "kns://plasma-themes.knsrc/api.kde-look.org/1167639",
+    "kns://aurorae.knsrc/api.kde-look.org/1167637",
+    "kns://icons.knsrc/api.kde-look.org/1166289"
+  ],
+  "X-Plasma-MainScript": "defaults"
+}
