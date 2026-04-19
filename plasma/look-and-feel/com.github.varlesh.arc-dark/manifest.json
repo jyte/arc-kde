@@ -21,6 +21,5 @@
     "kns://aurorae.knsrc/api.kde-look.org/1167637",
     "kns://icons.knsrc/api.kde-look.org/1166289",
     "kns://wallpaper.knsrc/api.kde-look.org/1815446"
-  ],
-  "X-Plasma-MainScript": "defaults"
+  ]
 }

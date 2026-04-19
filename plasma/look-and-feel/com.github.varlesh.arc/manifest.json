@@ -20,6 +20,5 @@
     "kns://plasma-themes.knsrc/api.kde-look.org/1826017",
     "kns://aurorae.knsrc/api.kde-look.org/1815456",
     "kns://icons.knsrc/api.kde-look.org/1166289"
-  ],
-  "X-Plasma-MainScript": "defaults"
+  ]
 }
